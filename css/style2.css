@@ -22,7 +22,7 @@ h1 {
 }
 #header {
     height: 150px;
-    background: #db6d16 url(wpp.jpg);
+    background: #db6d16;
 }
 .visually-hidden{
     display: none;
@@ -94,7 +94,7 @@ li a{
     font-family: Tahoma, Arial, Helvetica, Sans-serif;
     font-size: 12px;
     color: #c9c9c9;
-    border-top: 1px solid #efefef;
+    border-top: 1px solid #cccccc;
     padding: 13px 25px;
     line-height: 18px;
 }
