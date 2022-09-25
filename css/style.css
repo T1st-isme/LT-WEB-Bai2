@@ -22,7 +22,8 @@ body{
 .sidebar{
     margin: 0;
     background-color:#036017;
-	padding: 270px 171.7px;
+	padding: 270px 172px;
+    width: 89.5px;
     float: right;
     text-align: center;
 }
